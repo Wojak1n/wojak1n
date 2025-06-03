@@ -25,7 +25,7 @@
 
 
 [<img align="left" alt="Elhabib-assefri | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="wojak1n | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+[<img align="left" alt="wojak1n_ | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
 <br />
 
@@ -71,5 +71,5 @@
 ---
 
 
-[instagram]: https://www.instagram.com/Wojak1n
+[instagram]: https://www.instagram.com/Wojak1n_
 [linkedin]: https://www.linkedin.com/in/Elhabib-assefri/

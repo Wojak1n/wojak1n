@@ -38,10 +38,6 @@
 
 <br/>
 
----
-
-<br/>
-
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
@@ -54,9 +50,3 @@
 </div
   
 <br/>
-
----
- 
----
-[instagram]: https://www.instagram.com/Wojak1n_
-[linkedin]: https://www.linkedin.com/in/Elhabib-assefri/

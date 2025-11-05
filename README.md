@@ -48,3 +48,5 @@
 </div
   
 <br/>
+<h1>📧 Contact me: [assefrielhabib.dev@gmail.com](mailto:assefrielhabib.dev@gmail.com)</h1>
+

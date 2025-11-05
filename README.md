@@ -7,9 +7,8 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Keep learning, keep creating..
 - I'm obsessed with computers and tech tips, but when I'm not deep in code or fixing PCs, I love unwinding with a chill drive in Euro Truck Simulator or racing in Forza 🚚🏎️.
-
+                                           <h3>📧 Contact me: assefrielhabib.dev@gmail.com </h3>
 ---
-<h4>📧 Contact me: [assefrielhabib.dev@gmail.com](mailto:assefrielhabib.dev@gmail.com)</h4>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
